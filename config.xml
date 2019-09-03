@@ -20,6 +20,7 @@
         </property>
       </bean>
     </property>
+    <property name="authenticationEnabled" value="true"/>
     <!-- Enabling Apache Ignite native persistence. -->
          <!--  <property name="dataStorageConfiguration">
               <bean class="org.apache.ignite.configuration.DataStorageConfiguration">
