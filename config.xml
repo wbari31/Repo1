@@ -30,7 +30,6 @@
             </property>
         </bean>
     </property>
-    error
     <!-- Enabling Apache Ignite native persistence. -->
          <!--  <property name="dataStorageConfiguration">
               <bean class="org.apache.ignite.configuration.DataStorageConfiguration">
